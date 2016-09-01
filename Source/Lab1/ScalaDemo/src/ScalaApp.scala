@@ -22,7 +22,7 @@ object ScalaApp {
 
     val o = output.collect()
 
-    var s: String = "Sentence:Count & Ascending order by count \n"
+    var s: String = "Sentence:Count & Alphabetical Ascending order \n"
     o.foreach { case (word, count) => {
 
       s += word + " : " + count + "\n"
