@@ -5,3 +5,5 @@ Lab1: https://github.com/niCEnANi/RealTimeBigData/wiki/Lab1
 Lab2: https://github.com/niCEnANi/RealTimeBigData/wiki/Lab2
 
 Lab3: https://github.com/niCEnANi/RealTimeBigData/wiki/Lab3
+
+Lab4: https://github.com/niCEnANi/RealTimeBigData/wiki/Lab4
