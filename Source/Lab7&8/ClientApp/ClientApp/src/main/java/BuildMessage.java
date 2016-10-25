@@ -33,7 +33,7 @@ public class BuildMessage {
     static List<Double> mainPoints = new ArrayList<Double>();
 
     public static void main(String args[]) throws IOException {
-        String VideoPath = "data/BackStroke.mkv";
+        String VideoPath = "data/baseball.mkv";
         String MainFramesPath = "Output/KeyFrames";
         File mainFrame = new File(MainFramesPath);
         File[] mainFrames = mainFrame.listFiles();

@@ -20,9 +20,9 @@ import java.util.Properties;
  */
 public class SimpleConsumer {
 
-    String API_KEY = "fLr-gBAV6_SS8Qtf-0-MEBlfR51d2nQr";
-    String DATABASE_NAME = "readvideo_realtime";
-    String COLLECTION_NAME = "readvideo";
+    String API_KEY = "ztCS-x7D_40BrPn_vDa4LXIqW_VXO5qk";
+    String DATABASE_NAME = "videoception";
+    String COLLECTION_NAME = "lab7and8";
     String urlString = "https://api.mlab.com/api/1/databases/" +
             DATABASE_NAME + "/collections/" + COLLECTION_NAME + "?apiKey=" + API_KEY;
 
